@@ -1,0 +1,14 @@
+D:\New Course\Enumerators\Enumerators\bin\Debug\Enumerators.exe.config
+D:\New Course\Enumerators\Enumerators\bin\Debug\Enumerators.exe
+D:\New Course\Enumerators\Enumerators\bin\Debug\Enumerators.pdb
+D:\New Course\Enumerators\Enumerators\obj\Debug\Enumerators.csproj.AssemblyReference.cache
+D:\New Course\Enumerators\Enumerators\obj\Debug\Enumerators.csproj.CoreCompileInputs.cache
+D:\New Course\Enumerators\Enumerators\obj\Debug\Enumerators.exe
+D:\New Course\Enumerators\Enumerators\obj\Debug\Enumerators.pdb
+D:\GitHub\Enumerators\bin\Debug\Enumerators.exe.config
+D:\GitHub\Enumerators\bin\Debug\Enumerators.exe
+D:\GitHub\Enumerators\bin\Debug\Enumerators.pdb
+D:\GitHub\Enumerators\obj\Debug\Enumerators.csproj.AssemblyReference.cache
+D:\GitHub\Enumerators\obj\Debug\Enumerators.csproj.CoreCompileInputs.cache
+D:\GitHub\Enumerators\obj\Debug\Enumerators.exe
+D:\GitHub\Enumerators\obj\Debug\Enumerators.pdb
